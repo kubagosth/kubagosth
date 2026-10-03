@@ -1,9 +1,14 @@
 ### Hi there 👋
 
+### 🛠️ Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,vue,js,html,css,git,github" />
+</p>
+
+### 📊 GitHub Stats
+
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kubagosth&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-### 👀 Profile Views
-
-[![](https://visitcount.itsvg.in/api?id=kubagosth\&label=Profile%20Views\&color=6\&icon=5\&pretty=true)](https://visitcount.itsvg.in)
